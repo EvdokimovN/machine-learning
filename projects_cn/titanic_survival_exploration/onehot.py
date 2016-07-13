@@ -42,3 +42,5 @@ enc.fit(X)
 # #TODO: transform the categorical titanic data, and store the transformed labels in the variable `onehotlabels`
 onehotlabels =enc.transform(X)
 print onehotlabels
+
+
